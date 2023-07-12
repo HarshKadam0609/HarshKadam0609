@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarshKadam0609
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to looking forward to my carrer in these field
+- 💞️ I’m looking to looking forward persue to my carrer in these field
   
 
 <!---
