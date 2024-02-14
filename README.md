@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @HarshKadam0609
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to looking forward persue to my carrer in these field
-  
+🔍 Harsh Kadam
+📊 Aspiring Data Analyst
+🎓 Recently completed Data Science certification course from Newton School
+💻 Skilled in SQL, Microsoft Power BI, and Microsoft Excel
+🚀 Eager to work and pursue my career in the data science field
+🌟 Passionate about leveraging data to drive actionable insights and decision-making
+💼 Open to collaborations and opportunities in data analytics projects
+Connect with me at [https://www.linkedin.com/in/ harsh-kadam-6161] to discuss data-driven possibilities!
 
-<!---
-HarshKadam0609/HarshKadam0609 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
